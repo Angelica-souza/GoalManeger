@@ -1,0 +1,26 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "Nome": "Angélica Pereira Souza",
+            "email": "angelicatecinfor@gmail.com",
+            "senha": "12345"
+        },
+        {
+            "id": 2,
+            "Nome": "Julia Martins Souza",
+            "email": "angelicatecinfor@gmail.com",
+            "senha": "123456"
+        }
+    ], 
+    "metas": [
+        {
+            "id": 1,
+            "Meta": "Ler dois livros",
+            "date_inicial": "",
+            "date_final": "",
+            "email": "angelicatecinfor@gmail.com",
+            "senha": "12345"
+        }
+    ]
+}
